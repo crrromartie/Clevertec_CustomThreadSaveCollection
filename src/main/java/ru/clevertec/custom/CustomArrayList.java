@@ -1,4 +1,4 @@
-package ru.clevertec.ArrayList;
+package ru.clevertec.custom;
 
 import java.io.Serializable;
 import java.util.*;

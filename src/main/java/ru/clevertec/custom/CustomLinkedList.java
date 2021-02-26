@@ -1,4 +1,4 @@
-package ru.clevertec.LinkedList;
+package ru.clevertec.custom;
 
 import java.io.Serializable;
 import java.util.*;

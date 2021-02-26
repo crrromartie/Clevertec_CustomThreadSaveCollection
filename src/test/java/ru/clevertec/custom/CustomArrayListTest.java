@@ -1,11 +1,10 @@
-package ru.clevertec.ArrayList;
+package ru.clevertec.custom;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 class CustomArrayListTest {
     private CustomArrayList<String> customList;
